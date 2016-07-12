@@ -1,2 +1,2 @@
-# mongodb-backup-restore
-# mongodb-backup-restore
+#  simple script  to backup and restore mongodbs.
+
